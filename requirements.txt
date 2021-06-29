@@ -1,4 +1,6 @@
 vgamepad==0.0.3
 pywin32
 opencv-python==4.5.2.54
-d3dshot
+jupyter
+matplotlib
+Pillow
