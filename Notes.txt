@@ -1,0 +1,10 @@
+Notes
+======
+1. Using vGamepad for a gameapd emulator to euro truck simulator
+https://pypi.org/project/vgamepad/#dualshock4-gamepad
+2. 
+
+
+To do
+=====
+1. Trying OpenCV using 
